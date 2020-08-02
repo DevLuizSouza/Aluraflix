@@ -1,7 +1,6 @@
-import React from 'react';
-import ReactDom from 'react-dom';
-import'.index.css';
- 
+import ReactDom from './node_modules/react-dom';
+import'./node_modules/.index.css';
+import Home from './Pages/Home.'; 
 
 function CadastroVideo(){
     return(
